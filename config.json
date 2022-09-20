@@ -15,7 +15,7 @@
     {
       "host": "lava2.sowad.tk",
       "password": "sowadop",
-      "port": 27808,
+      "port": 27084,
       "retryDelay": 3000,
       "identifier": "sowad link 2",
       "secure": false
