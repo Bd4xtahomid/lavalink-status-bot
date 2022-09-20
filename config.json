@@ -5,19 +5,19 @@
   "nodes": [
     
   {
-      "host": "lava.sowad.tk",
+      "host": "lava1.sowad.tk",
       "password": "sowadop",
-      "port": 27084,
+      "port": 30099,
       "retryDelay": 3000,
-      "identifier": "sowad link",
+      "identifier": "sowad link 1",
       "secure": false
     },
     {
-      "host": "lava1.sowad.tk",
+      "host": "lava2.sowad.tk",
       "password": "sowadop",
       "port": 27808,
       "retryDelay": 3000,
-      "identifier": "sowad link",
+      "identifier": "sowad link 2",
       "secure": false
     }
   ]
