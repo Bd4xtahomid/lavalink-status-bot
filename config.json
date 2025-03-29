@@ -1,24 +1,16 @@
 {
 
   "token": "",
-	"channel": "1020030918808850444",
+	"channel": "1355561533014544414",
   "nodes": [
     
   {
-      "host": "lava1.sowad.tk",
-      "password": "sowadop",
-      "port": 30099,
+      "host": "78.46.65.243",
+      "password": "youshallnotpass",
+      "port": 4626,
       "retryDelay": 3000,
       "identifier": "sowad link 1",
       "secure": false
     },
-    {
-      "host": "lava2.sowad.tk",
-      "password": "sowadop",
-      "port": 27084,
-      "retryDelay": 3000,
-      "identifier": "sowad link 2",
-      "secure": false
-    }
   ]
 }
